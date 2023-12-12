@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7LsH6SYidiMaCm3SWiE1weW+If5/+zirXEaeqKu+GJTbil9hXTXgb73mAd45ybPfgRQcMebQoZX3S0Zmx6cyA==",
+  "success": true,
+  "projectFilePath": "C:\\Nando\\Responsi\\473804responsijunpro\\473804responsijunpro\\473804responsijunpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agustinus Fernando\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Agustinus Fernando\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
